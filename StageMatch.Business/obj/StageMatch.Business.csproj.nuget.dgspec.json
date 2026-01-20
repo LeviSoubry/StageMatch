@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/levisoubry/Coding/code/StageMatch/Superviso.Business/Superviso.Business.csproj": {}
+    "/Users/levisoubry/Coding/code/StageMatch/StageMatch.Business/StageMatch.Business.csproj": {}
   },
   "projects": {
-    "/Users/levisoubry/Coding/code/StageMatch/Superviso.Business/Superviso.Business.csproj": {
+    "/Users/levisoubry/Coding/code/StageMatch/StageMatch.Business/StageMatch.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/levisoubry/Coding/code/StageMatch/Superviso.Business/Superviso.Business.csproj",
-        "projectName": "Superviso.Business",
-        "projectPath": "/Users/levisoubry/Coding/code/StageMatch/Superviso.Business/Superviso.Business.csproj",
+        "projectUniqueName": "/Users/levisoubry/Coding/code/StageMatch/StageMatch.Business/StageMatch.Business.csproj",
+        "projectName": "StageMatch.Business",
+        "projectPath": "/Users/levisoubry/Coding/code/StageMatch/StageMatch.Business/StageMatch.Business.csproj",
         "packagesPath": "/Users/levisoubry/.nuget/packages/",
-        "outputPath": "/Users/levisoubry/Coding/code/StageMatch/Superviso.Business/obj/",
+        "outputPath": "/Users/levisoubry/Coding/code/StageMatch/StageMatch.Business/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/levisoubry/.nuget/NuGet/NuGet.Config"
